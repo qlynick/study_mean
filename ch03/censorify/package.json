@@ -1,0 +1,15 @@
+{
+    "author" : "QNick"
+    ,"name" : "censorify"
+    ,"version" : "0.1.1"
+    ,"description" : "Censors words out of text"
+    ,"main" : "censortext"
+    ,"repository" : {
+        "type" : "git"
+        ,"url" : "https://github.com/qlynick/study_mean/ch03/censorify"
+    }
+    ,"dependencies" : {}
+    ,"engines" : {
+        "node": "*"
+    }
+}
