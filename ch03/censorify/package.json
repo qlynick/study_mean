@@ -6,8 +6,9 @@
     ,"main" : "censortext"
     ,"repository" : {
         "type" : "git"
-        ,"url" : "https://github.com/qlynick/study_mean/ch03/censorify"
+        ,"url" : "https://github.com/qlynick/study_mean/tree/master/ch03/censorify"
     }
+    ,"keywords" : ["censor","words","qnick"]
     ,"dependencies" : {}
     ,"engines" : {
         "node": "*"
